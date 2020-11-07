@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <title img src="{{asset('images/loho.jpg')}}" style="width:50px; height:50px;" alt="" />UAERA</title>
+    <title img src="{{asset('images/loho.jpg')}}" style="width:50px; height:50px;" alt="">UAERA</title>
 
     @include('frontlayouts.css')
 </head>
@@ -43,11 +43,6 @@
                             <div class="gdlr-core-pbf-sidebar-content  gdlr-core-column-40 gdlr-core-pbf-sidebar-padding gdlr-core-line-height gdlr-core-column-extend-left" style="padding: 30px 0px 30px 0px;">
                                 <div class="gdlr-core-pbf-sidebar-content-inner">
                                     <div class="gdlr-core-pbf-element">
-                                        <div class="gdlr-core-image-item gdlr-core-item-pdlr gdlr-core-item-pdb  gdlr-core-center-align" style="padding-bottom: 40px ;">
-                                            <div class="gdlr-core-image-item-wrap gdlr-core-media-image  gdlr-core-image-item-style-rectangle" style="border-width: 0px;"><img src="upload/shutterstock_447921760-800x292.jpg" width="1000" height="365" alt="" /></div>
-                                        </div>
-                                    </div>
-                                    <div class="gdlr-core-pbf-element">
                                         <div class="gdlr-core-title-item gdlr-core-item-pdb clearfix  gdlr-core-left-align gdlr-core-title-item-caption-top gdlr-core-item-pdlr">
                                             <div class="gdlr-core-title-item-title-wrap clearfix">
                                                 <h3 class="gdlr-core-title-item-title gdlr-core-skin-title " style="font-size: 24px ;font-weight: 700 ;letter-spacing: 0px ;text-transform: none ;color: #293a5b ;">UAERA Board meets with Department of National Economy Under Ministry of Finance, Planning and Economic Development </h3></div>
@@ -76,27 +71,17 @@
                                 </div>
                             </div>
                             <div class="gdlr-core-pbf-sidebar-right gdlr-core-column-extend-right  kingster-sidebar-area gdlr-core-column-20 gdlr-core-pbf-sidebar-padding  gdlr-core-line-height" style="padding: 30px 0px 30px 0px;">
-                                <div class="gdlr-core-sidebar-item gdlr-core-item-pdlr">
-                                    <div id="gdlr-core-custom-menu-widget-6" class="widget widget_gdlr-core-custom-menu-widget kingster-widget">
-                                        <h3 class="kingster-widget-title">Get A Job</h3><span class="clear"></span>
-                                        <div class="menu-finance-menu-container">
-                                            <ul id="menu-finance-menu" class="gdlr-core-custom-menu-widget gdlr-core-menu-style-list">
-                                                <li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item menu-item-5818"><a href="#">Job</a></li>
-                                                <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5824"><a href="#"></a>Job</li>
-                                                <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5820"><a target="_blank" href="#">Job</a></li>
-                                                <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5821"><a target="_blank" href="#">Job</a></li>
-                                            </ul>
-                                        </div>
-                                    </div>
-                                    <div id="text-22" class="widget widget_text kingster-widget">
+                            <div class="gdlr-core-sidebar-item gdlr-core-item-pdlr">
+                                    <div id="text-18" class="widget widget_text kingster-widget">
                                         <div class="textwidget">
-                                            <div class="gdlr-core-widget-box-shortcode  gdlr-core-center-align" style="padding: 55px 0 35px;border: 5px solid #3db166 ;">
-                                                <div class="gdlr-core-widget-box-shortcode-content">
-                                                    <p> <span style="font-size: 15px; font-weight: 600; color: #9ba7bf; text-transform: uppercase;">Join Special Event</span>
-                                                        <br /> <span style="font-size: 20px; font-weight: bold; color: #192f59; text-transform: uppercase;">Opportunity Knocks at Once</span>
-                                                        <br /> <span class="gdlr-core-space-shortcode" style="margin-top: 18px ;"></span><span style="font-size: 15px;">Get Job and change your life<br /> Contact us now</span>
-                                                        <br /> <span class="gdlr-core-space-shortcode" style="margin-top: 5px ;"></span>
-                                                        </p>
+                                        <div class="gdlr-core-blog-modern  gdlr-core-with-image gdlr-core-hover-overlay-content gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover">
+                                                <div class="gdlr-core-blog-modern-inner">
+                                                    <div class="gdlr-core-blog-thumbnail gdlr-core-media-image"><img src="upload/slide5.jpg" width="700" height="660"  alt="" /></div>
+                                                    <div class="gdlr-core-blog-modern-content  gdlr-core-center-align">
+                                                        <h3 class="gdlr-core-blog-title gdlr-core-skin-title" style="font-size: 22px ;font-weight: 700 ;letter-spacing: 0px ;"><a href="#" >Professor Tom comments on voluntary recalls by snack brands</a></h3>
+                                                        <div class="gdlr-core-blog-info-wrapper gdlr-core-skin-divider"><span class="gdlr-core-blog-info gdlr-core-blog-info-font gdlr-core-skin-caption gdlr-core-blog-info-date"><a href="#">June 6, 2016</a></span><span class="gdlr-core-blog-info gdlr-core-blog-info-font gdlr-core-skin-caption gdlr-core-blog-info-author"><span class="gdlr-core-head" >By</span><a href="#" title="Posts by John Smith" rel="author">John Smith</a></span>
+                                                        </div>
+                                                    </div>
                                                 </div>
                                             </div>
                                         </div>

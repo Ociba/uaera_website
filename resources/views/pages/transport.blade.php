@@ -44,7 +44,7 @@
                                 <div class="gdlr-core-pbf-sidebar-content-inner">
                                     <div class="gdlr-core-pbf-element">
                                         <div class="gdlr-core-image-item gdlr-core-item-pdlr gdlr-core-item-pdb  gdlr-core-center-align" style="padding-bottom: 40px ;">
-                                            <div class="gdlr-core-image-item-wrap gdlr-core-media-image  gdlr-core-image-item-style-rectangle" style="border-width: 0px;"><img src="upload/shutterstock_447921760-800x292.jpg" width="1000" height="365" alt="" /></div>
+                                            <div class="gdlr-core-image-item-wrap gdlr-core-media-image  gdlr-core-image-item-style-rectangle" style="border-width: 0px;"><img src="images/airport.jpg" width="1000" height="365" alt="" /></div>
                                         </div>
                                     </div>
                                     <div class="gdlr-core-pbf-element">
@@ -94,6 +94,20 @@
                                 </div>
                             </div>
                             <div class="gdlr-core-pbf-sidebar-right gdlr-core-column-extend-right  kingster-sidebar-area gdlr-core-column-20 gdlr-core-pbf-sidebar-padding  gdlr-core-line-height" style="padding: 30px 0px 30px 0px;">
+                            <div class="gdlr-core-sidebar-item gdlr-core-item-pdlr">
+                                <div id="gdlr-core-custom-menu-widget-6" class="widget widget_gdlr-core-custom-menu-widget kingster-widget">
+                                        <h3 class="kingster-widget-title">Get A Job</h3><span class="clear"></span>
+                                        <div class="menu-finance-menu-container">
+                                            <ul id="menu-finance-menu" class="gdlr-core-custom-menu-widget gdlr-core-menu-style-list">
+                                                <li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item menu-item-5818"><a href="#">House maids</a></li>
+                                                <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5824"><a href="#"></a>security guards</li>
+                                                <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5820"><a target="_blank" href="#">Drivers</a></li>
+                                                <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5821"><a target="_blank" href="#">cleaners</a></li>
+                                                <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5821"><a target="_blank" href="#">Hotellers</a></li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
                                 <div class="gdlr-core-sidebar-item gdlr-core-item-pdlr">
                                     <div id="text-21" class="widget widget_text kingster-widget">
                                         <div class="textwidget">
@@ -101,7 +115,7 @@
                                                 <div class="gdlr-core-widget-box-shortcode-content">
                                                     </p>
                                                     <h3 style="font-size: 20px; color: #fff; margin-bottom: 25px; text-align: center;"><img src="images/loho.jpg" style="border-radius:50%; width:70px; height:70x;"></h3>
-                                                    <p><span style="font-size: 16px; font-weight: 600; text-align: center;">The Uganda Association of External Recruitment Agencies (UAERA)</span>
+                                                    <p><span style="font-size: 16px; font-weight: 600; text-align: center;">The Uganda Association of External Recruitment Agencies <br>(UAERA)</span>
                                                         <br /> <span style="font-size: 15px; text-align: center;"><br />  P.O.BOX 25669 Kampala – Uganda<br /> BMK House Suite 411 – 4th Floor</span></p>
                                                     <p><span style="font-size: 15px; text-align: center;">+256 788 708000<br /> uaeraug@gmail.com<br /> </span></p>
                                                     <p><span style="font-size: 16px; text-align: center;">Mon &#8211; Fri 9:00A.M. &#8211; 5:00P.M.</span></p> <span class="gdlr-core-space-shortcode" style="margin-top: 40px ;"></span>
@@ -121,7 +135,7 @@
                                                                 <form class="gdlr-core-newsletter-form clearfix" method="post" action="/post-application-comment">
                                                                     <!-- @crsf-->
                                                                     <div class="gdlr-core-newsletter-email">
-                                                                        <textarea class="newsletter-email gdlr-core-skin-e-background gdlr-core-skin-e-content" placeholder="Your comment" type="email" name="comment" rows="4" cols="34" required ></textarea>
+                                                                        <input class="newsletter-email gdlr-core-skin-e-background gdlr-core-skin-e-content" placeholder="Your comment" type="email" name="comment" rows="4" required >
                                                                     </div>
                                                                     <div class="gdlr-core-newsletter-email">
                                                                         <input class="newsletter-email gdlr-core-skin-e-background gdlr-core-skin-e-content" placeholder="Name" type="email" name="email" size="30" required />
@@ -143,19 +157,6 @@
                                         </div>
                                     </div>
                                 </div>
-                                <div id="text-22" class="widget widget_text kingster-widget">
-                                        <div class="textwidget">
-                                            <div class="gdlr-core-widget-box-shortcode  gdlr-core-center-align" style="padding: 55px 0 35px;border: 5px solid #163269 ;">
-                                                <div class="gdlr-core-widget-box-shortcode-content">
-                                                    <p> <span style="font-size: 15px; font-weight: 600; color: #9ba7bf; text-transform: uppercase;">Join Special Event</span>
-                                                        <br /> <span style="font-size: 20px; font-weight: bold; color: #192f59; text-transform: uppercase;">Opportunity Knocks at Once</span>
-                                                        <br /> <span class="gdlr-core-space-shortcode" style="margin-top: 18px ;"></span><span style="font-size: 15px;">Get Job and change your life<br /> Contact us now</span>
-                                                        <br /> <span class="gdlr-core-space-shortcode" style="margin-top: 5px ;"></span>
-                                                        </p>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
                             </div>
                         </div>
                     </div>

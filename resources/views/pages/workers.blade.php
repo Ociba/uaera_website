@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <title img src="{{asset('images/loho.jpg')}}" style="width:50px; height:50px;" alt="" />UAERA</title>
+    <title img src="{{asset('images/loho.jpg')}}" style="width:50px; height:50px;" alt="">UAERA</title>
 
     @include('frontlayouts.css')
 </head>
@@ -44,7 +44,7 @@
                                 <div class="gdlr-core-pbf-sidebar-content-inner">
                                     <div class="gdlr-core-pbf-element">
                                         <div class="gdlr-core-image-item gdlr-core-item-pdlr gdlr-core-item-pdb  gdlr-core-center-align" style="padding-bottom: 40px ;">
-                                            <div class="gdlr-core-image-item-wrap gdlr-core-media-image  gdlr-core-image-item-style-rectangle" style="border-width: 0px;"><img src="upload/shutterstock_447921760-800x292.jpg" width="1000" height="365" alt="" /></div>
+                                            <div class="gdlr-core-image-item-wrap gdlr-core-media-image  gdlr-core-image-item-style-rectangle" style="border-width: 0px;"><img src="images/ueara.jpg" width="1000" height="365" alt="" /></div>
                                         </div>
                                     </div>
                                     <div class="gdlr-core-pbf-element">
@@ -184,8 +184,8 @@
                                                 <p>Additionally, l wish to say that Government is fully committed to ensuring the welfare and safety of all Ugandans both at home and abroad and will continue to act both rationally and responsibly with regard to this pandemic.</p>
                                                 <p>All Government interventions in the fight against COVID-19 are being made after careful analysis and in the best interest of the country as a whole.</p>
                                                 <p>I thank you</p>
-                                                <p style="color:red">Statement-to-Parliament-on-Ugandans-Stranded-Abroad-due-to-the-Airport-and-Border-Closures-following-the-Outbreak-of-the-COVID-19-Pandemic-0001-converted<button class="gdlr-core-button gdlr-core-button-solid">Download</button></p>
-                                                <p></p>
+                                                <p style="color:red">Statement-to-Parliament-on-Ugandans-Stranded-Abroad-due-to-the-Airport-and-Border-Closures-following-the-Outbreak-of-the-COVID-19-Pandemic-0001-converted<button class="gdlr-core-button gdlr-core-button-solid"><a href="/files/statement.pdf" download="Statement-to-Parliament-on-Ugandans-Stranded-Abroad-due-to-the-Airport-and-Border-Closures-following-the-Outbreak-of-the-COVID-19-Pandemic-0001-converted">Download</button></a>
+                                                </p>
                                             </div>
                                         </div>
                                     </div>
@@ -196,14 +196,15 @@
                             </div>
                             <div class="gdlr-core-pbf-sidebar-right gdlr-core-column-extend-right  kingster-sidebar-area gdlr-core-column-20 gdlr-core-pbf-sidebar-padding  gdlr-core-line-height" style="padding: 30px 0px 30px 0px;">
                                 <div class="gdlr-core-sidebar-item gdlr-core-item-pdlr">
-                                    <div id="gdlr-core-custom-menu-widget-6" class="widget widget_gdlr-core-custom-menu-widget kingster-widget">
+                                <div id="gdlr-core-custom-menu-widget-6" class="widget widget_gdlr-core-custom-menu-widget kingster-widget">
                                         <h3 class="kingster-widget-title">Get A Job</h3><span class="clear"></span>
                                         <div class="menu-finance-menu-container">
                                             <ul id="menu-finance-menu" class="gdlr-core-custom-menu-widget gdlr-core-menu-style-list">
-                                                <li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item menu-item-5818"><a href="#">Job</a></li>
-                                                <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5824"><a href="#"></a>Job</li>
-                                                <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5820"><a target="_blank" href="#">Job</a></li>
-                                                <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5821"><a target="_blank" href="#">Job</a></li>
+                                                <li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item menu-item-5818"><a href="#">House maids</a></li>
+                                                <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5824"><a href="#"></a>security guards</li>
+                                                <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5820"><a target="_blank" href="#">Drivers</a></li>
+                                                <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5821"><a target="_blank" href="#">cleaners</a></li>
+                                                <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5821"><a target="_blank" href="#">Hotellers</a></li>
                                             </ul>
                                         </div>
                                     </div>
@@ -213,10 +214,10 @@
                                                 <div class="gdlr-core-widget-box-shortcode-content">
                                                     </p>
                                                     <h3 style="font-size: 20px; color: #fff; margin-bottom: 25px; text-align: center;"><img src="images/loho.jpg" style=" border-radius:50%; width:70px; height:70x;"></h3>
-                                                    <p><span style="color: #163269; font-size: 16px; font-weight: 600; text-align: center;">The Uganda Association of External Recruitment Agencies (UAERA)</span>
+                                                    <p><span style="font-size: 16px; font-weight: 600; text-align: center;">The Uganda Association of External Recruitment Agencies (UAERA)</span>
                                                         <br /> <span style="font-size: 15px; text-align: center;"><br />  P.O.BOX 25669 Kampala – Uganda<br /> BMK House Suite 411 – 4th Floor</span></p>
                                                     <p><span style="font-size: 15px; text-align: center;">+256 788 708000<br /> uaeraug@gmail.com<br /> </span></p>
-                                                    <p><span style="font-size: 16px; color: #163269; text-align: center;">Mon &#8211; Fri 9:00A.M. &#8211; 5:00P.M.</span></p> <span class="gdlr-core-space-shortcode" style="margin-top: 40px ;"></span>
+                                                    <p><span style="font-size: 16px; text-align: center;">Mon &#8211; Fri 9:00A.M. &#8211; 5:00P.M.</span></p> <span class="gdlr-core-space-shortcode" style="margin-top: 40px ;"></span>
                                                     {{--
                                                     <h3 style="font-size: 20px; color: #fff; margin-bottom: 15px;">Social Info</h3>
                                                     <div class="gdlr-core-social-network-item gdlr-core-item-pdb  gdlr-core-none-align" style="padding-bottom: 0px ;"><a href="#url" target="_blank" class="gdlr-core-social-network-icon" title="facebook" style="color: #163269 ;"><i class="fa fa-facebook" ></i></a><a href="#" target="_blank" class="gdlr-core-social-network-icon" title="google-plus" style="color: #163269 ;"><i class="fa fa-google-plus" ></i></a><a href="#" target="_blank" class="gdlr-core-social-network-icon" title="linkedin" style="color: #163269 ;"><i class="fa fa-linkedin" ></i></a><a href="#" target="_blank" class="gdlr-core-social-network-icon" title="skype" style="color: #163269 ;"><i class="fa fa-skype" ></i></a><a href="#url" target="_blank" class="gdlr-core-social-network-icon" title="twitter" style="color: #163269 ;"><i class="fa fa-twitter" ></i></a><a href="#" target="_blank" class="gdlr-core-social-network-icon" title="instagram" style="color: #163269 ;"><i class="fa fa-instagram" ></i></a></div> <span class="gdlr-core-space-shortcode" style="margin-top: 40px ;"></span> <a class="gdlr-core-button gdlr-core-button-shortcode  gdlr-core-button-gradient gdlr-core-button-no-border" href="#" style="padding: 16px 27px 18px;margin-right: 20px;border-radius: 2px;-moz-border-radius: 2px;-webkit-border-radius: 2px;"><span class="gdlr-core-content" >Student Resources</span></a>
@@ -224,7 +225,7 @@
                                                     <div class="gdlr-core-widget-box-shortcode-content">
                                                     </p>
                                                     <h3 style="font-size: 20px; color: #fff; margin-bottom: 25px;">Leave Comment</h3>
-                                                    <p><span style="color: #163269; font-size: 16px; font-weight: 600;">Your email address will not be published.</span>
+                                                    <p><span style="font-size: 16px; font-weight: 600;">Your email address will not be published.</span>
                                                     </p>
                                                     <div class="gdlr-core-pbf-element">
                                                         <div class="gdlr-core-newsletter-item gdlr-core-item-pdlr gdlr-core-item-pdb  gdlr-core-style-rectangle-full">
@@ -233,7 +234,7 @@
                                                                 <form class="gdlr-core-newsletter-form clearfix" method="post" action="/post-application-comment">
                                                                     <!-- @crsf-->
                                                                     <div class="gdlr-core-newsletter-email">
-                                                                        <textarea class="newsletter-email gdlr-core-skin-e-background gdlr-core-skin-e-content" placeholder="Your comment" type="email" name="comment" rows="4" cols="34" required ></textarea>
+                                                                        <input class="newsletter-email gdlr-core-skin-e-background gdlr-core-skin-e-content" placeholder="Your comment" type="email" name="comment" rows="4" required >
                                                                     </div>
                                                                     <div class="gdlr-core-newsletter-email">
                                                                         <input class="newsletter-email gdlr-core-skin-e-background gdlr-core-skin-e-content" placeholder="Name" type="email" name="email" size="30" required />

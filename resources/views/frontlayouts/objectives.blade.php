@@ -25,7 +25,7 @@
                         </div>
                         <div class="gdlr-core-pbf-element">
                             <div class="gdlr-core-text-box-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-left-align" id="div_1dd7_19">
-                                <div class="gdlr-core-text-box-item-content" id="div_1dd7_20">
+                                <div class="gdlr-core-text-box-item-content" style="text-align:justify;" id="div_1dd7_20">
                                     <p>1. To organize and unite all companies licensed under the labour externalization programme to operate under one umbrella and speak with one voice for strengthening the sector</p>
                                     <p>2. To ensure protection of migrant workers, and observation of their human rights and welfare in accordance with the international labour standards. 3. To self regulate, ensure adherence to the code of conduct, laws, regulations and guidelines set by the ministry of Gender, Labour and Social Development (MGLSD)</p>
                                     <p>3. To ensure transparency, build confidence in the public and make the business attractive and sustainable. The mandate of the association is therefore on labour migration</p>

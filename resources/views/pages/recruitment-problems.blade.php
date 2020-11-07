@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <title img src="{{asset('images/loho.jpg')}}" style="width:50px; height:50px;" alt="" />UAERA</title>
+    <title img src="{{asset('images/loho.jpg')}}" style="width:50px; height:50px;" alt="">UAERA</title>
 
     @include('frontlayouts.css')
 </head>
@@ -86,18 +86,37 @@
                                 </div>
                             </div>
                             <div class="gdlr-core-pbf-sidebar-right gdlr-core-column-extend-right  kingster-sidebar-area gdlr-core-column-20 gdlr-core-pbf-sidebar-padding  gdlr-core-line-height" style="padding: 30px 0px 30px 0px;">
+                            <div class="gdlr-core-sidebar-item gdlr-core-item-pdlr">
+                                    <div id="text-18" class="widget widget_text kingster-widget">
+                                        <div class="textwidget">
+                                        <div class="gdlr-core-blog-modern  gdlr-core-with-image gdlr-core-hover-overlay-content gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover">
+                                                <div class="gdlr-core-blog-modern-inner">
+                                                    <div class="gdlr-core-blog-thumbnail gdlr-core-media-image"><img src="images/Ronnie-Mukundane.jpg" width="700" height="660"  alt="" /></div>
+                                                    <div class="gdlr-core-blog-modern-content  gdlr-core-center-align">
+                                                        <h3 class="gdlr-core-blog-title gdlr-core-skin-title" style="font-size: 22px ;font-weight: 700 ;letter-spacing: 0px ;"><a href="#" >Ronnie Mukundane</a></h3>
+                                                        <div class="gdlr-core-blog-info-wrapper gdlr-core-skin-divider"><span class="gdlr-core-blog-info gdlr-core-blog-info-font gdlr-core-skin-caption gdlr-core-blog-info-date"><a href="#">August 10, 2020</a></span><span class="gdlr-core-blog-info gdlr-core-blog-info-font gdlr-core-skin-caption gdlr-core-blog-info-author"><span class="gdlr-core-head" >By</span><a href="#" title="Posts by John Smith" rel="author">Admin</a></span>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
                                 <div class="gdlr-core-sidebar-item gdlr-core-item-pdlr">
-                                    <div id="gdlr-core-custom-menu-widget-6" class="widget widget_gdlr-core-custom-menu-widget kingster-widget">
+                                <div id="gdlr-core-custom-menu-widget-6" class="widget widget_gdlr-core-custom-menu-widget kingster-widget">
                                         <h3 class="kingster-widget-title">Get A Job</h3><span class="clear"></span>
                                         <div class="menu-finance-menu-container">
                                             <ul id="menu-finance-menu" class="gdlr-core-custom-menu-widget gdlr-core-menu-style-list">
-                                                <li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item menu-item-5818"><a href="#">Job</a></li>
-                                                <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5824"><a href="#"></a>Job</li>
-                                                <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5820"><a target="_blank" href="#">Job</a></li>
-                                                <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5821"><a target="_blank" href="#">Job</a></li>
+                                                <li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item menu-item-5818"><a href="#">House maids</a></li>
+                                                <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5824"><a href="#"></a>security guards</li>
+                                                <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5820"><a target="_blank" href="#">Drivers</a></li>
+                                                <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5821"><a target="_blank" href="#">cleaners</a></li>
+                                                <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5821"><a target="_blank" href="#">Hotellers</a></li>
                                             </ul>
                                         </div>
                                     </div>
+                                </div>
+                                <div class="gdlr-core-sidebar-item gdlr-core-item-pdlr">
                                     <div id="text-21" class="widget widget_text kingster-widget">
                                         <div class="textwidget">
                                             <div class="gdlr-core-widget-box-shortcode " style="color: #ffffff ;padding: 30px 45px;background-color: #192f59 ;">
@@ -115,7 +134,7 @@
                                                     <div class="gdlr-core-widget-box-shortcode-content">
                                                     </p>
                                                     <h3 style="font-size: 20px; color: #fff; margin-bottom: 25px;">Leave Comment</h3>
-                                                    <p><span style="color: #163269; font-size: 16px; font-weight: 600;">Your email address will not be published.</span>
+                                                    <p><span style="font-size: 16px; font-weight: 600;">Your email address will not be published.</span>
                                                     </p>
                                                     <div class="gdlr-core-pbf-element">
                                                         <div class="gdlr-core-newsletter-item gdlr-core-item-pdlr gdlr-core-item-pdb  gdlr-core-style-rectangle-full">
@@ -124,7 +143,7 @@
                                                                 <form class="gdlr-core-newsletter-form clearfix" method="post" action="/post-application-comment">
                                                                     <!-- @crsf-->
                                                                     <div class="gdlr-core-newsletter-email">
-                                                                        <textarea class="newsletter-email gdlr-core-skin-e-background gdlr-core-skin-e-content" placeholder="Your comment" type="email" name="comment" rows="4" cols="34" required ></textarea>
+                                                                        <input class="newsletter-email gdlr-core-skin-e-background gdlr-core-skin-e-content" placeholder="Your comment" type="email" name="comment" rows="4" required >
                                                                     </div>
                                                                     <div class="gdlr-core-newsletter-email">
                                                                         <input class="newsletter-email gdlr-core-skin-e-background gdlr-core-skin-e-content" placeholder="Name" type="email" name="email" size="30" required />

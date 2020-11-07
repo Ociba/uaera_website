@@ -67,7 +67,7 @@
                                             <div class="gdlr-core-pbf-element">
                                                 <div class="gdlr-core-image-item gdlr-core-item-pdlr gdlr-core-item-pdb  gdlr-core-center-align">
                                                     <div class="gdlr-core-image-item-wrap gdlr-core-media-image  gdlr-core-image-item-style-round" id="div_1dd7_92">
-                                                        <img src="upload/hp-donation-400x212.jpg" width="900" height="1000" alt="" />
+                                                        <img src="images/labor1.jpg" width="900" height="1000" alt="" />
                                                     </div>
                                                 </div>
                                             </div>

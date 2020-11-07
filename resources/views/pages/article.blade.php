@@ -52,6 +52,7 @@
                                             </a>
                                         </div>
                                                 <p>Last March, the government suspended the externalization of labour to countries such as the United Arab Emirates, Saudi Arabia, Qatar, Jordan, Somalia, Kuwait, Bahrain, Afghanistan, and Iraq to curb the spread of COVID-19. Ugandans looking to work abroad will have to wait for a while as labour exporting companies on Friday last week announced that […]</p>
+                                                <img src="images/ggg.jpg" style="width:70px; height:70px; text-align:center;">
                                                 <hr>
 
                                                 <div class="gdlr-core-title-item-title-wrap clearfix">
@@ -64,7 +65,7 @@
                                             </a>
                                         </div>
                                                 <p>In recent years the external labour employment especially in the middle east has gained prominence in Uganda and so has been the exposure of the challenges involved, especially for domestic workers. Subsequently, many have called for banning of labour migration to the Middle East, especially domestic workers to cub down the challenges employed in those […]</p>
-                                                <img src="images/loho.jpg" style="width:70px; height:70px; text-align:center;">
+                                                <img src="images/kill.jpg" style="width:70px; height:70px; text-align:center;">
                                                 <hr>
                                             </div>
                                         </div>
@@ -78,14 +79,23 @@
                             </div>
                             <div class="gdlr-core-pbf-sidebar-right gdlr-core-column-extend-right  kingster-sidebar-area gdlr-core-column-20 gdlr-core-pbf-sidebar-padding  gdlr-core-line-height" style="padding: 35px 0px 30px 0px;">
                                 <div class="gdlr-core-sidebar-item gdlr-core-item-pdlr">
-                                    <div id="text-18" class="widget widget_text kingster-widget">
+                                <div id="text-21" class="widget widget_text kingster-widget">
                                         <div class="textwidget">
                                             <div class="gdlr-core-widget-box-shortcode " style="color: #ffffff ;padding: 30px 45px;background-color: #192f59 ;">
                                                 <div class="gdlr-core-widget-box-shortcode-content">
                                                     </p>
-                                                    <h3 style="font-size: 20px; color: #fff; margin-bottom: 25px;">Leave Comment</h3>
-                                                    <p><span style="font-size: 16px; font-weight: 600;">Your email address will not be published.</span>
+                                                    <h3 style="font-size: 20px; color: #fff; margin-bottom: 25px; text-align: center;"><img src="images/loho.jpg" style="border-radius:50%; width:70px; height:70x;"></h3>
+                                                    <p><span style="font-size: 16px; font-weight: 600; text-align: center;">The Uganda Association of External Recruitment Agencies (UAERA)</span>
+                                                    </span></p>
+                                                    <p><span style="font-size: 15px; text-align: center;">+256 788 708000<br /> uaeraug@gmail.com<br /> </span></p>
+                                                    <p>
+                                                    {{--
+                                                    <h3 style="font-size: 20px; color: #fff; margin-bottom: 15px;">Social Info</h3>
+                                                    <div class="gdlr-core-social-network-item gdlr-core-item-pdb  gdlr-core-none-align" style="padding-bottom: 0px ;"><a href="#url" target="_blank" class="gdlr-core-social-network-icon" title="facebook" style="color: #163269 ;"><i class="fa fa-facebook" ></i></a><a href="#" target="_blank" class="gdlr-core-social-network-icon" title="google-plus" style="color: #163269 ;"><i class="fa fa-google-plus" ></i></a><a href="#" target="_blank" class="gdlr-core-social-network-icon" title="linkedin" style="color: #163269 ;"><i class="fa fa-linkedin" ></i></a><a href="#" target="_blank" class="gdlr-core-social-network-icon" title="skype" style="color: #163269 ;"><i class="fa fa-skype" ></i></a><a href="#url" target="_blank" class="gdlr-core-social-network-icon" title="twitter" style="color: #163269 ;"><i class="fa fa-twitter" ></i></a><a href="#" target="_blank" class="gdlr-core-social-network-icon" title="instagram" style="color: #163269 ;"><i class="fa fa-instagram" ></i></a></div> <span class="gdlr-core-space-shortcode" style="margin-top: 40px ;"></span> <a class="gdlr-core-button gdlr-core-button-shortcode  gdlr-core-button-gradient gdlr-core-button-no-border" href="#" style="padding: 16px 27px 18px;margin-right: 20px;border-radius: 2px;-moz-border-radius: 2px;-webkit-border-radius: 2px;"><span class="gdlr-core-content" >Student Resources</span></a>
+                                                    --}}
+                                                    <div class="gdlr-core-widget-box-shortcode-content">
                                                     </p>
+                                                    <h3 style="font-size: 20px; color: #fff; margin-bottom: 25px;">Leave Comment</h3>
                                                     <div class="gdlr-core-pbf-element">
                                                         <div class="gdlr-core-newsletter-item gdlr-core-item-pdlr gdlr-core-item-pdb  gdlr-core-style-rectangle-full">
 
@@ -93,7 +103,7 @@
                                                                 <form class="gdlr-core-newsletter-form clearfix" method="post" action="/post-application-comment">
                                                                     <!-- @crsf-->
                                                                     <div class="gdlr-core-newsletter-email">
-                                                                        <textarea class="newsletter-email gdlr-core-skin-e-background gdlr-core-skin-e-content" placeholder="Your comment" type="email" name="comment" rows="4" cols="34" required ></textarea>
+                                                                        <input class="newsletter-email gdlr-core-skin-e-background gdlr-core-skin-e-content" placeholder="Your comment" type="email" name="comment" rows="4" required >
                                                                     </div>
                                                                     <div class="gdlr-core-newsletter-email">
                                                                         <input class="newsletter-email gdlr-core-skin-e-background gdlr-core-skin-e-content" placeholder="Name" type="email" name="email" size="30" required />
@@ -108,6 +118,8 @@
                                                             </div>
                                                         </div>
                                                     </div>
+                                                </div>
+                                                    <p>
                                                 </div>
                                             </div>
                                         </div>

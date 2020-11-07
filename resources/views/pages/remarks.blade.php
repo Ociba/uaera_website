@@ -148,7 +148,7 @@
                                                                 <form class="gdlr-core-newsletter-form clearfix" method="post" action="/post-application-comment">
                                                                     <!-- @crsf-->
                                                                     <div class="gdlr-core-newsletter-email">
-                                                                        <textarea class="newsletter-email gdlr-core-skin-e-background gdlr-core-skin-e-content" placeholder="Your comment" type="email" name="comment" rows="4" cols="34" required ></textarea>
+                                                                        <input class="newsletter-email gdlr-core-skin-e-background gdlr-core-skin-e-content" placeholder="Your comment" type="email" name="comment" rows="4" required >
                                                                     </div>
                                                                     <div class="gdlr-core-newsletter-email">
                                                                         <input class="newsletter-email gdlr-core-skin-e-background gdlr-core-skin-e-content" placeholder="Name" type="email" name="email" size="30" required />

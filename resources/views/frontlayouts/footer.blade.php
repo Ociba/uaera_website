@@ -23,12 +23,12 @@
                     <h3 class="kingster-widget-title">Our Links</h3><span class="clear"></span>
                     <div class="menu-our-campus-container">
                         <ul id="menu-our-campus" class="gdlr-core-custom-menu-widget gdlr-core-menu-style-plain">
-                            <li class="menu-item"><a href="#">Home</a></li>
-                            <li class="menu-item"><a href="#">Blog &#038;</a></li>
+                            <li class="menu-item"><a href="/">Home</a></li>
+                            <li class="menu-item"><a href="/blog">Blog &#038;</a></li>
                             <li class="menu-item"><a href="#">Services</a></li>
-                            <li class="menu-item"><a href="#">Team</a></li>
-                            <li class="menu-item"><a href="#">Career</a></li>
-                            <li class="menu-item"><a href="#">List of uaera members</a></li>
+                            <li class="menu-item"><a href="/team">Team</a></li>
+                            <li class="menu-item"><a href="/online-application">Career</a></li>
+                            <li class="menu-item"><a href="/jobs">List of uaera members</a></li>
                         </ul>
                     </div>
                 </div>
@@ -68,7 +68,7 @@
     
     <div class="kingster-copyright-wrapper">
         <div class="kingster-copyright-container kingster-container clearfix">
-            <div class="kingster-copyright-left kingster-item-pdlr" style="text-align:center;">Copyright All Right Reserved {{date('Y')}}, JITS</div>
+            <div class="kingster-copyright-left kingster-item-pdlr" style="text-align:center;">Copyright All Right Reserved {{date('Y')}}, <a href="http://www.jaajaltd.com">JITS</a></div>
             {{--
             <div class="kingster-copyright-right kingster-item-pdlr">
                 <div class="gdlr-core-social-network-item gdlr-core-item-pdb  gdlr-core-none-align" id="div_1dd7_112">

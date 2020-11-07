@@ -26,7 +26,7 @@
                     <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js ">
                         <div class="gdlr-core-pbf-element">
                             <div class="gdlr-core-text-box-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-left-align" id="div_1dd7_26">
-                                <div class="gdlr-core-text-box-item-content" id="div_1dd7_27">
+                                <div class="gdlr-core-text-box-item-content" style="text-align:justify;" id="div_1dd7_27">
                                     <p>The Uganda Association of External Recruitment Agencies (UAERA) started in 2013. Currently it has a membership of 186 members as per 29th February 2020. We are an umbrella of agencies professionally
                                        working together to spur growth of external recruitment in Uganda. UAERA regulates and monitors the activities of member agencies together with Ministry of Gender, Labour and Social Development, which is our regulating body that ensures every company is licensed to externalize labour.</p>
                                 </div>
@@ -34,7 +34,7 @@
                         </div>
                         <div class="gdlr-core-pbf-element">
                             <div class="gdlr-core-text-box-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-left-align" id="div_1dd7_28">
-                                <div class="gdlr-core-text-box-item-content" id="div_1dd7_29">
+                                <div class="gdlr-core-text-box-item-content"  style="text-align:justify;" id="div_1dd7_29">
                                     <p>Our member agencies source job opportunities from all over the world. The major destination countries are in the Middle East, where the economies are sustainable and therefore creating jobs.</p>
                                 </div>
                             </div>

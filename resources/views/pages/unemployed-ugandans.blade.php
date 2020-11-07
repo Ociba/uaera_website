@@ -136,14 +136,28 @@
                                         <div class="textwidget">
                                         <div class="gdlr-core-blog-modern  gdlr-core-with-image gdlr-core-hover-overlay-content gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover">
                                                 <div class="gdlr-core-blog-modern-inner">
-                                                    <div class="gdlr-core-blog-thumbnail gdlr-core-media-image"><img src="images/nid.jpg" width="700" height="660"  alt="" /></div>
+                                                    <div class="gdlr-core-blog-thumbnail gdlr-core-media-image"><img src="images/Ronnie-Mukundane.jpg" width="700" height="660"  alt="" /></div>
                                                     <div class="gdlr-core-blog-modern-content  gdlr-core-center-align">
-                                                        <h3 class="gdlr-core-blog-title gdlr-core-skin-title" style="font-size: 22px ;font-weight: 700 ;letter-spacing: 0px ;"><a href="#" >Professor Tom comments on voluntary recalls by snack brands</a></h3>
-                                                        <div class="gdlr-core-blog-info-wrapper gdlr-core-skin-divider"><span class="gdlr-core-blog-info gdlr-core-blog-info-font gdlr-core-skin-caption gdlr-core-blog-info-date"><a href="#">June 6, 2016</a></span><span class="gdlr-core-blog-info gdlr-core-blog-info-font gdlr-core-skin-caption gdlr-core-blog-info-author"><span class="gdlr-core-head" >By</span><a href="#" title="Posts by John Smith" rel="author">John Smith</a></span>
+                                                        <h3 class="gdlr-core-blog-title gdlr-core-skin-title" style="font-size: 22px ;font-weight: 700 ;letter-spacing: 0px ;"><a href="#" >Ronnie Mukundane</a></h3>
+                                                        <div class="gdlr-core-blog-info-wrapper gdlr-core-skin-divider"><span class="gdlr-core-blog-info gdlr-core-blog-info-font gdlr-core-skin-caption gdlr-core-blog-info-date"><a href="#">September 26, 2019</a></span><span class="gdlr-core-blog-info gdlr-core-blog-info-font gdlr-core-skin-caption gdlr-core-blog-info-author"><span class="gdlr-core-head" >By</span><a href="#" title="Posts by John Smith" rel="author">Admin</a></span>
                                                         </div>
                                                     </div>
                                                 </div>
                                             </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            <div class="gdlr-core-sidebar-item gdlr-core-item-pdlr">
+                            <div id="gdlr-core-custom-menu-widget-6" class="widget widget_gdlr-core-custom-menu-widget kingster-widget">
+                                        <h3 class="kingster-widget-title">Get A Job</h3><span class="clear"></span>
+                                        <div class="menu-finance-menu-container">
+                                            <ul id="menu-finance-menu" class="gdlr-core-custom-menu-widget gdlr-core-menu-style-list">
+                                                <li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item menu-item-5818"><a href="#">House maids</a></li>
+                                                <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5824"><a href="#"></a>security guards</li>
+                                                <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5820"><a target="_blank" href="#">Drivers</a></li>
+                                                <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5821"><a target="_blank" href="#">cleaners</a></li>
+                                                <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5821"><a target="_blank" href="#">Hotellers</a></li>
+                                            </ul>
                                         </div>
                                     </div>
                                 </div>
@@ -164,22 +178,6 @@
                                 </div>
                                 </div>
                               </div>
-                              <div class="gdlr-core-sidebar-item gdlr-core-item-pdlr">
-                                    <div id="text-18" class="widget widget_text kingster-widget">
-                                        <div class="textwidget">
-                                        <div class="gdlr-core-blog-modern  gdlr-core-with-image gdlr-core-hover-overlay-content gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover">
-                                                <div class="gdlr-core-blog-modern-inner">
-                                                    <div class="gdlr-core-blog-thumbnail gdlr-core-media-image"><img src="images/nid.jpg" width="700" height="660"  alt="" /></div>
-                                                    <div class="gdlr-core-blog-modern-content  gdlr-core-center-align">
-                                                        <h3 class="gdlr-core-blog-title gdlr-core-skin-title" style="font-size: 22px ;font-weight: 700 ;letter-spacing: 0px ;"><a href="#" >Professor Tom comments on voluntary recalls by snack brands</a></h3>
-                                                        <div class="gdlr-core-blog-info-wrapper gdlr-core-skin-divider"><span class="gdlr-core-blog-info gdlr-core-blog-info-font gdlr-core-skin-caption gdlr-core-blog-info-date"><a href="#">June 6, 2016</a></span><span class="gdlr-core-blog-info gdlr-core-blog-info-font gdlr-core-skin-caption gdlr-core-blog-info-author"><span class="gdlr-core-head" >By</span><a href="#" title="Posts by John Smith" rel="author">John Smith</a></span>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
                                 <div class="gdlr-core-sidebar-item gdlr-core-item-pdlr">
                                     <div id="text-18" class="widget widget_text kingster-widget">
                                         <div class="textwidget">
@@ -197,7 +195,7 @@
                                                                 <form class="gdlr-core-newsletter-form clearfix" method="post" action="/post-application-comment">
                                                                     <!-- @crsf-->
                                                                     <div class="gdlr-core-newsletter-email">
-                                                                        <textarea class="newsletter-email gdlr-core-skin-e-background gdlr-core-skin-e-content" placeholder="Your comment" type="email" name="comment" rows="4" cols="34" required ></textarea>
+                                                                        <input class="newsletter-email gdlr-core-skin-e-background gdlr-core-skin-e-content wpcf7-form-control-wrap" placeholder="Your comment" type="email" name="comment" rows="4" required >
                                                                     </div>
                                                                     <div class="gdlr-core-newsletter-email">
                                                                         <input class="newsletter-email gdlr-core-skin-e-background gdlr-core-skin-e-content" placeholder="Name" type="email" name="email" size="30" required />

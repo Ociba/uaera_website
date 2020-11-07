@@ -23,13 +23,12 @@
                                                         <div class="gdlr-core-item-list-wrap gdlr-core-column-30">
                                                             <div class="gdlr-core-item-list-inner gdlr-core-item-mglr">
                                                                 <div class="gdlr-core-blog-grid ">
-                                                                    <div class="gdlr-core-blog-thumbnail gdlr-core-media-image  gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover">
-                                                                        <a href="#"><img src="images/facebook.JPG" width="700" height="430"  alt="" /></a>
+                                                                    <div class="gdlr-core-blog-thumbnail gdlr-core-media-image  gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover fb-page"
+                                                                         
+                                                                data-href="https://www.facebook.com/UAERAUg/" data-tabs="timeline" data-width="" data-height="" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><blockquote cite="https://www.facebook.com/UAERAUg/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/UAERAUg/">Facebook</a></blockquote>
+                                                              </data-href=>
+                                                                        
                                                                     </div>
-                                                                    <div class="gdlr-core-blog-grid-content-wrap">
-                                                                        <div class="gdlr-core-blog-info-wrapper gdlr-core-skin-divider"><span class="gdlr-core-blog-info gdlr-core-blog-info-font gdlr-core-skin-caption gdlr-core-blog-info-date"><a href="#">last wednesday</a></span><span class="gdlr-core-blog-info gdlr-core-blog-info-font gdlr-core-skin-caption gdlr-core-blog-info-tag"><a href="#" rel="tag"><i class="fa fa-facebook" style="color:blue;"></i></a><span class="gdlr-core-sep">,</span> <a href="#" rel="tag"></a></span>
-                                                                        </div>
-                                                                        <h3 class="gdlr-core-blog-title gdlr-core-skin-title" style="font-size: 19px ;font-weight: 700 ;letter-spacing: 0px ;"><a href="#" >Uganda Association of External Recruitment Agencies</a></h3></div>
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -61,6 +60,9 @@
                                                                     </div>
                                                                     <h3 class="gdlr-core-blog-title gdlr-core-skin-title" style="font-size: 14px ;font-weight: 500 ;letter-spacing: 0px ;"><a href="#" >Our labour externalization sector can benchmark on the Philippine’s success story.&#8217;..</a></h3></div>
                                                             </div>
+                                                            <div class="gdlr-core-pbf-element">
+                                                                <div class="gdlr-core-button-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-left-align"><a class="gdlr-core-button  gdlr-core-button-transparent gdlr-core-button-no-border" href="#" style="font-size: 14px ;letter-spacing: 1px ;color: #475c87 ;padding: 0px 0px 0px 0px;text-transform: none ;border-radius: 0px;-moz-border-radius: 0px;-webkit-border-radius: 0px;"><span class="gdlr-core-content" >View All Events</span><i class="gdlr-core-pos-right fa fa-long-arrow-right" style="color: #475c87 ;"  ></i></a></div>
+                                                            </div>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -80,37 +82,13 @@
                                                         </div>
                                                     </div>
                                                     <div class="gdlr-core-event-item-holder clearfix">
-                                                        <div class="gdlr-core-event-item-list gdlr-core-style-widget gdlr-core-item-pdlr  clearfix" style="margin-bottom: 38px ;"><span class="gdlr-core-event-item-info gdlr-core-type-start-date-month">
-                                                        <a class="" href="index-2.html"><img src="images/loho.jpg" style="border-radius:50%; width:50px; height:40px;" alt="" /> </a>
-                                                        </span>
-                                                        <div class="gdlr-core-blog-widget-content">
-                                                                    <div class="gdlr-core-blog-info-wrapper gdlr-core-skin-divider"><span class="gdlr-core-blog-info gdlr-core-blog-info-font gdlr-core-skin-caption gdlr-core-blog-info-date"><span ><a href="#" rel="tag"><span style="color:black;">UAERA</span></span><span class="gdlr-core-blog-info gdlr-core-blog-info-font gdlr-core-skin-caption gdlr-core-blog-info-tag"> <span class="fa fa-twitter" style="background-color:darkblue; text-transform: lowercase; color:white;"> follow</i></span> </a><a href="#" rel="tag"><i class="fa fa-twitter"> 1,084</i> </a><span class="gdlr-core-sep">,</span> <a href="#" rel="tag"><i class="fa fa-user"> 1,437</i></a></span>
-                                                                    </div>
-                                                                    <h3 class="gdlr-core-blog-title gdlr-core-skin-title" style="font-size: 14px ;font-weight: 600 ;letter-spacing: 0px ;"><a href="#" >#official account for the Uganda Association of External Recruitment Agencies (UAERA)</a></h3></div>
+                                                        <div class="gdlr-core-event-item-list gdlr-core-style-widget gdlr-core-item-pdlr  clearfix fb-page" style="margin-bottom: 38px ;">
+                                                        <a class="twitter-timeline" data-width="400" data-height="510" href="https://twitter.com/UAERAUg" data-chrome="nofooter noborders">UAERA</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
                                                         </div>
                                                         </div>
-                                                        <div class="gdlr-core-event-item-list gdlr-core-style-widget gdlr-core-item-pdlr  clearfix" style="margin-bottom: 38px ;"><span class="gdlr-core-event-item-info gdlr-core-type-start-date-month">
-                                                        <a class="" href="index-2.html"><img src="images/loho.jpg" style="border-radius:50%; width:150px; height:40px;" alt="" /> </a>
-                                                        </span>
-                                                        <div class="gdlr-core-blog-widget-content">
-                                                        <div class="gdlr-core-blog-info-wrapper gdlr-core-skin-divider"><span class="gdlr-core-blog-info gdlr-core-blog-info-font gdlr-core-skin-caption gdlr-core-blog-info-date"><span style="color:black;">UAERA</span></span><span class="gdlr-core-blog-info gdlr-core-blog-info-font gdlr-core-skin-caption gdlr-core-blog-info-tag"></a><a href="#" rel="tag"> @UAERAUg</a><span class="gdlr-core-sep">,</span> <a href="#" rel="tag"><i class="fa fa-twitter" style="color:blue;"></i></a></span>
-                                                                    </div>
-                                                                    <h3 class="gdlr-core-blog-title gdlr-core-skin-title" style="font-size: 16px ;font-weight: 700 ;letter-spacing: 0px ;"><a href="#" >Happy New Month Friends</a></h3></div>
-                                                        </div>
-                                                        </div>
-                                                        <div class="gdlr-core-event-item-list gdlr-core-style-widget gdlr-core-item-pdlr  clearfix" style="margin-bottom: 38px ;"><span class="gdlr-core-event-item-info gdlr-core-type-start-date-month">
-                                                        <a class="" href="index-2.html"><img src="images/iom.jpg" style="border-radius:50%; width:50px; height:40px;" alt="" /> </a>
-                                                        </span>
-                                                        <div class="gdlr-core-blog-widget-content">
-                                                                    <div class="gdlr-core-blog-info-wrapper gdlr-core-skin-divider"><span class="gdlr-core-blog-info gdlr-core-blog-info-font gdlr-core-skin-caption gdlr-core-blog-info-date"><a href="#">IOM Uganda</a></span><span class="gdlr-core-blog-info gdlr-core-blog-info-font gdlr-core-skin-caption gdlr-core-blog-info-tag"><a href="#" rel="tag">@IOM_Uganda</a><span class="gdlr-core-sep">,</span> <a href="#" rel="tag">·28 Oct</a></span>
-                                                                    </div>
-                                                                    <h3 class="gdlr-core-blog-title gdlr-core-skin-title" style="font-size: 14px ;font-weight: 500 ;letter-spacing: 0px ;"><a href="#" >Happening now: commémoration of #UN75 anniversary at @OPMUganda.</a></h3></div>
                                                         </div>
                                                     </div>
                                                 </div>
-                                            </div>
-                                            <div class="gdlr-core-pbf-element">
-                                                <div class="gdlr-core-button-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-left-align"><a class="gdlr-core-button  gdlr-core-button-transparent gdlr-core-button-no-border" href="#" style="font-size: 14px ;letter-spacing: 1px ;color: #475c87 ;padding: 0px 0px 0px 0px;text-transform: none ;border-radius: 0px;-moz-border-radius: 0px;-webkit-border-radius: 0px;"><span class="gdlr-core-content" >View All Events</span><i class="gdlr-core-pos-right fa fa-long-arrow-right" style="color: #475c87 ;"  ></i></a></div>
                                             </div>
                                         </div>
                                     </div>

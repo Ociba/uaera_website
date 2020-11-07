@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <title img src="{{asset('images/loho.jpg')}}" style="width:50px; height:50px;" alt="" />UAERA</title>
+    <title img src="{{asset('images/loho.jpg')}}" style="width:50px; height:50px;" alt="">UAERA</title>
 
     @include('frontlayouts.css')
 </head>
@@ -67,11 +67,11 @@
                                                  
                                                 <p>The Gender Minister also revealed that they are going to set up a committee in the next three months to ensure that continuous monitoring and evaluation is held.</p>
                                                 <p>“I would like us to set up the Joint Committee within three months of coming into operation of this MoU to make periodic reviews, assessment, and monitoring of implementation of the provisions of this MoU,”Hon Mukwaya urged.</p>
-                                                <img src="images/loho.jpg" style="width:70px; height:70px;">
+                                                
                                                 <p>While speaking at the event, Minister Al Hamli Nasser Bin Thani said that Ugandan workers in UAE are hardworking employees whose bosses have praised for yielding good results.</p>
                                                 <p>Hon Mukwaya called upon the journalists who receive audios from Ugandans (mistreated) in UAE to get details of their exporter, so that the Ministry can arrest and charge those found illegally exporting workers.</p>
                                                 <p>During the event, the Minister also handed over gifts to the UAE team including Minister Al Hamli Nasser Bin Thani.</p>
-                                                <img src="images/loho.jpg" style="width:70px; height:70px;">
+                                                <img src="images/mou3.jpg" style="width:800px; height:500px;">
                                                 
                                             </div>
                                         </div>
@@ -124,6 +124,54 @@
                                 </div>
                             </div>
                             <div class="gdlr-core-pbf-sidebar-right gdlr-core-column-extend-right  kingster-sidebar-area gdlr-core-column-20 gdlr-core-pbf-sidebar-padding  gdlr-core-line-height" style="padding: 35px 0px 30px 0px;">
+                            <div class="gdlr-core-sidebar-item gdlr-core-item-pdlr">
+                                    <div id="text-18" class="widget widget_text kingster-widget">
+                                        <div class="textwidget">
+                                        <div class="gdlr-core-blog-modern  gdlr-core-with-image gdlr-core-hover-overlay-content gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover">
+                                                <div class="gdlr-core-blog-modern-inner">
+                                                    <div class="gdlr-core-blog-thumbnail gdlr-core-media-image"><img src="images/mou1.jpg" width="700" height="660"  alt="" /></div>
+                                                    <div class="gdlr-core-blog-modern-content  gdlr-core-center-align">
+                                                        <h3 class="gdlr-core-blog-title gdlr-core-skin-title" style="font-size: 22px ;font-weight: 700 ;letter-spacing: 0px ;"><a href="#" >Uganda Signs MoU with UAE to Ease Labour Export</a></h3>
+                                                        <div class="gdlr-core-blog-info-wrapper gdlr-core-skin-divider"><span class="gdlr-core-blog-info gdlr-core-blog-info-font gdlr-core-skin-caption gdlr-core-blog-info-date"><a href="#">July 9, 2019</a></span><span class="gdlr-core-blog-info gdlr-core-blog-info-font gdlr-core-skin-caption gdlr-core-blog-info-author"><span class="gdlr-core-head" >By</span><a href="#" title="Posts by John Smith" rel="author">Admin</a></span>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="gdlr-core-sidebar-item gdlr-core-item-pdlr">
+                                    <div id="text-18" class="widget widget_text kingster-widget">
+                                        <div class="textwidget">
+                                        <div class="gdlr-core-blog-modern  gdlr-core-with-image gdlr-core-hover-overlay-content gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover">
+                                                <div class="gdlr-core-blog-modern-inner">
+                                                    <div class="gdlr-core-blog-thumbnail gdlr-core-media-image"><img src="images/mou2.jpg" width="700" height="660"  alt="" /></div>
+                                                    <div class="gdlr-core-blog-modern-content  gdlr-core-center-align">
+                                                        <h3 class="gdlr-core-blog-title gdlr-core-skin-title" style="font-size: 22px ;font-weight: 700 ;letter-spacing: 0px ;"><a href="#" >Uganda Signs MoU with UAE to Ease Labour Export</a></h3>
+                                                        <div class="gdlr-core-blog-info-wrapper gdlr-core-skin-divider"><span class="gdlr-core-blog-info gdlr-core-blog-info-font gdlr-core-skin-caption gdlr-core-blog-info-date"><a href="#">July 9, 2019</a></span><span class="gdlr-core-blog-info gdlr-core-blog-info-font gdlr-core-skin-caption gdlr-core-blog-info-author"><span class="gdlr-core-head" >By</span><a href="#" title="Posts by John Smith" rel="author">Admin</a></span>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="gdlr-core-sidebar-item gdlr-core-item-pdlr">
+                                    <div id="text-18" class="widget widget_text kingster-widget">
+                                        <div class="textwidget">
+                                        <div class="gdlr-core-blog-modern  gdlr-core-with-image gdlr-core-hover-overlay-content gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover">
+                                                <div class="gdlr-core-blog-modern-inner">
+                                                    <div class="gdlr-core-blog-thumbnail gdlr-core-media-image"><img src="images/mou3.jpg" width="700" height="660"  alt="" /></div>
+                                                    <div class="gdlr-core-blog-modern-content  gdlr-core-center-align">
+                                                        <h3 class="gdlr-core-blog-title gdlr-core-skin-title" style="font-size: 22px ;font-weight: 700 ;letter-spacing: 0px ;"><a href="#" >Uganda Signs MoU with UAE to Ease Labour Export</a></h3>
+                                                        <div class="gdlr-core-blog-info-wrapper gdlr-core-skin-divider"><span class="gdlr-core-blog-info gdlr-core-blog-info-font gdlr-core-skin-caption gdlr-core-blog-info-date"><a href="#">July 9, 2019</a></span><span class="gdlr-core-blog-info gdlr-core-blog-info-font gdlr-core-skin-caption gdlr-core-blog-info-author"><span class="gdlr-core-head" >By</span><a href="#" title="Posts by John Smith" rel="author">Admin</a></span>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
                                 <div class="gdlr-core-sidebar-item gdlr-core-item-pdlr">
                                     <div id="text-18" class="widget widget_text kingster-widget">
                                         <div class="textwidget">
@@ -141,7 +189,7 @@
                                                                 <form class="gdlr-core-newsletter-form clearfix" method="post" action="/post-application-comment">
                                                                     <!-- @crsf-->
                                                                     <div class="gdlr-core-newsletter-email">
-                                                                        <textarea class="newsletter-email gdlr-core-skin-e-background gdlr-core-skin-e-content" placeholder="Your comment" type="email" name="comment" rows="4" cols="34" required ></textarea>
+                                                                        <input class="newsletter-email gdlr-core-skin-e-background gdlr-core-skin-e-content" placeholder="Your comment" type="email" name="comment" rows="4" required >
                                                                     </div>
                                                                     <div class="gdlr-core-newsletter-email">
                                                                         <input class="newsletter-email gdlr-core-skin-e-background gdlr-core-skin-e-content" placeholder="Name" type="email" name="email" size="30" required />

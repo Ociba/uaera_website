@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <title img src="{{asset('images/loho.jpg')}}" style="width:50px; height:50px;" alt="" />UAERA</title>
+    <title img src="{{asset('images/loho.jpg')}}" style="width:50px; height:50px;" alt="">UAERA</title>
 
     @include('frontlayouts.css')
 </head>
@@ -44,7 +44,7 @@
                                 <div class="gdlr-core-pbf-sidebar-content-inner">
                                     <div class="gdlr-core-pbf-element">
                                         <div class="gdlr-core-image-item gdlr-core-item-pdlr gdlr-core-item-pdb  gdlr-core-center-align" style="padding-bottom: 40px ;">
-                                            <div class="gdlr-core-image-item-wrap gdlr-core-media-image  gdlr-core-image-item-style-rectangle" style="border-width: 0px;"><img src="upload/shutterstock_447921760-800x292.jpg" width="1000" height="365" alt="" /></div>
+                                            <div class="gdlr-core-image-item-wrap gdlr-core-media-image  gdlr-core-image-item-style-rectangle" style="border-width: 0px;"><img src="upload/slide5.jpg" width="1000" height="365" alt="" /></div>
                                         </div>
                                     </div>
                                     <div class="gdlr-core-pbf-element">
@@ -94,41 +94,66 @@
                                     <div class="gdlr-core-pbf-element">
                                         <div class="gdlr-core-text-box-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-left-align" style="padding-bottom: 20px ; text-align: justify;">
                                             <div class="gdlr-core-text-box-item-content" style="font-size: 15px ;text-transform: none ;">
-                                                <p style="font-weight:bold">By UAERA PR Team</p>
+                                                <p style="font-weight:bold">By UAERA PR Team
+                                                <a href="/uaera-board-meets-economy-department" button class="gdlr-core-button gdlr-core-button-solid">MEETING</button></a>
+                                                <a href="/economy-department-uaera-board-meets" button class="gdlr-core-button gdlr-core-button-solid">MOFPED</button></a>
+                                            </p>
                                             </div>
                                         </div>
                                     </div>
-                                    <p><a href="/uaera-board-meets-economy-department" button class="gdlr-core-button gdlr-core-button-solid">MEETING</button></a>
+                                    <div class="gdlr-core-pbf-element">
+                                        <div class="gdlr-core-text-box-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-left-align" style="padding-bottom: 20px ; text-align: justify;">
+                                            <div class="gdlr-core-text-box-item-content" style="font-size: 15px ;text-transform: none ;">
+                                    {{--<p><a href="/uaera-board-meets-economy-department" button class="gdlr-core-button gdlr-core-button-solid">MEETING</button></a>
                                     <a href="/economy-department-uaera-board-meets" button class="gdlr-core-button gdlr-core-button-solid">MOFPED</button></a>
-                                    </p>
+                                    </p>--}}
                                     <div class="gdlr-core-pbf-element">
                                         <div class="gdlr-core-button-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-left-align" style="padding-bottom: 55px ;"><a class="gdlr-core-button  gdlr-core-button-solid gdlr-core-button-no-border gdlr-core-column-30" href="/workers-issues" style="font-size: 14px ;font-weight: 700 ;letter-spacing: 0px ;padding: 13px 29px 18px 32px;text-transform: none ;margin: 0px 10px 10px 0px;border-radius: 2px;-moz-border-radius: 2px;-webkit-border-radius: 2px;"><span class="gdlr-core-content" >⟵ Statement to Parliament on Ugandans Stranded Abroad</span></a><a class="gdlr-core-button  gdlr-core-button-solid gdlr-core-button-no-border gdlr-core-column-30" href="/licensed-recruitment-companies" style="font-size: 14px ;font-weight: 700 ;letter-spacing: 0px ;padding: 13px 29px 18px 32px;text-transform: none ;border-radius: 2px;-moz-border-radius: 2px;-webkit-border-radius: 2px;"><span class="gdlr-core-content" >List of Updated Licensed Recruitment companies as at 30th June 2020 ⟶</span></a></div>
                                     </div>
+                                   </div>
+                                   </div>
+                                   </div>
                                 </div>
                             </div>
                             <div class="gdlr-core-pbf-sidebar-right gdlr-core-column-extend-right  kingster-sidebar-area gdlr-core-column-20 gdlr-core-pbf-sidebar-padding  gdlr-core-line-height" style="padding: 30px 0px 30px 0px;">
-                                <div class="gdlr-core-sidebar-item gdlr-core-item-pdlr">
-                                    <div id="gdlr-core-custom-menu-widget-6" class="widget widget_gdlr-core-custom-menu-widget kingster-widget">
+                            <div class="gdlr-core-sidebar-item gdlr-core-item-pdlr">
+                            <div id="gdlr-core-custom-menu-widget-6" class="widget widget_gdlr-core-custom-menu-widget kingster-widget">
                                         <h3 class="kingster-widget-title">Get A Job</h3><span class="clear"></span>
                                         <div class="menu-finance-menu-container">
                                             <ul id="menu-finance-menu" class="gdlr-core-custom-menu-widget gdlr-core-menu-style-list">
-                                                <li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item menu-item-5818"><a href="#">Job</a></li>
-                                                <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5824"><a href="#"></a>Job</li>
-                                                <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5820"><a target="_blank" href="#">Job</a></li>
-                                                <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5821"><a target="_blank" href="#">Job</a></li>
+                                                <li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item menu-item-5818"><a href="#">House maids</a></li>
+                                                <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5824"><a href="#"></a>security guards</li>
+                                                <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5820"><a target="_blank" href="#">Drivers</a></li>
+                                                <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5821"><a target="_blank" href="#">cleaners</a></li>
+                                                <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5821"><a target="_blank" href="#">Hotellers</a></li>
                                             </ul>
                                         </div>
                                     </div>
+                                    <div id="text-18" class="widget widget_text kingster-widget">
+                                        <div class="textwidget">
+                                        <div class="gdlr-core-blog-modern  gdlr-core-with-image gdlr-core-hover-overlay-content gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover">
+                                                <div class="gdlr-core-blog-modern-inner">
+                                                    <div class="gdlr-core-blog-thumbnail gdlr-core-media-image"><img src="images/board.jpg" width="700" height="660"  alt="" /></div>
+                                                    <div class="gdlr-core-blog-modern-content  gdlr-core-center-align">
+                                                        <h3 class="gdlr-core-blog-title gdlr-core-skin-title" style="font-size: 22px ;font-weight: 700 ;letter-spacing: 0px ;"><a href="#" >Professor Tom comments on voluntary recalls by snack brands</a></h3>
+                                                        <div class="gdlr-core-blog-info-wrapper gdlr-core-skin-divider"><span class="gdlr-core-blog-info gdlr-core-blog-info-font gdlr-core-skin-caption gdlr-core-blog-info-date"><a href="#">June 6, 2016</a></span><span class="gdlr-core-blog-info gdlr-core-blog-info-font gdlr-core-skin-caption gdlr-core-blog-info-author"><span class="gdlr-core-head" >By</span><a href="#" title="Posts by John Smith" rel="author">John Smith</a></span>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="gdlr-core-sidebar-item gdlr-core-item-pdlr">
                                     <div id="text-21" class="widget widget_text kingster-widget">
                                         <div class="textwidget">
                                             <div class="gdlr-core-widget-box-shortcode " style="color: #ffffff ;padding: 30px 45px;background-color: #192f59 ;">
                                                 <div class="gdlr-core-widget-box-shortcode-content">
                                                     </p>
                                                     <h3 style="font-size: 20px; color: #fff; margin-bottom: 25px; text-align: center;"><img src="images/loho.jpg" style="border-radius:50%; width:70px; height:70x;"></h3>
-                                                    <p><span style=font-size: 16px; font-weight: 600; text-align: center;">The Uganda Association of External Recruitment Agencies (UAERA)</span>
-                                                        <br /> <span style="font-size: 15px; text-align: center;"><br />  P.O.BOX 25669 Kampala – Uganda<br /> BMK House Suite 411 – 4th Floor</span></p>
+                                                    <p><span style="font-size: 15px; text-align: center;"><br />  P.O.BOX 25669 Kampala – Uganda<br /> BMK House Suite 411 – 4th Floor</span></p>
                                                     <p><span style="font-size: 15px; text-align: center;">+256 788 708000<br /> uaeraug@gmail.com<br /> </span></p>
-                                                    <p><span style="font-size: 16px;text-align: center;">Mon &#8211; Fri 9:00A.M. &#8211; 5:00P.M.</span></p> <span class="gdlr-core-space-shortcode" style="margin-top: 40px ;"></span>
+                                                    <p>
                                                     {{--
                                                     <h3 style="font-size: 20px; color: #fff; margin-bottom: 15px;">Social Info</h3>
                                                     <div class="gdlr-core-social-network-item gdlr-core-item-pdb  gdlr-core-none-align" style="padding-bottom: 0px ;"><a href="#url" target="_blank" class="gdlr-core-social-network-icon" title="facebook"><i class="fa fa-facebook" ></i></a><a href="#" target="_blank" class="gdlr-core-social-network-icon" title="google-plus" ><i class="fa fa-google-plus" ></i></a><a href="#" target="_blank" class="gdlr-core-social-network-icon" title="linkedin" ><i class="fa fa-linkedin" ></i></a><a href="#" target="_blank" class="gdlr-core-social-network-icon" title="skype" ><i class="fa fa-skype" ></i></a><a href="#url" target="_blank" class="gdlr-core-social-network-icon" title="twitter" ><i class="fa fa-twitter" ></i></a><a href="#" target="_blank" class="gdlr-core-social-network-icon" title="instagram" ><i class="fa fa-instagram" ></i></a></div> <span class="gdlr-core-space-shortcode" style="margin-top: 40px ;"></span> <a class="gdlr-core-button gdlr-core-button-shortcode  gdlr-core-button-gradient gdlr-core-button-no-border" href="#" style="padding: 16px 27px 18px;margin-right: 20px;border-radius: 2px;-moz-border-radius: 2px;-webkit-border-radius: 2px;"><span class="gdlr-core-content" >Student Resources</span></a>
@@ -145,7 +170,7 @@
                                                                 <form class="gdlr-core-newsletter-form clearfix" method="post" action="/post-application-comment">
                                                                     <!-- @crsf-->
                                                                     <div class="gdlr-core-newsletter-email">
-                                                                        <textarea class="newsletter-email gdlr-core-skin-e-background gdlr-core-skin-e-content" placeholder="Your comment" type="email" name="comment" rows="4" cols="34" required ></textarea>
+                                                                        <input class="newsletter-email gdlr-core-skin-e-background gdlr-core-skin-e-content" placeholder="Your comment" type="email" name="comment" rows="4" required >
                                                                     </div>
                                                                     <div class="gdlr-core-newsletter-email">
                                                                         <input class="newsletter-email gdlr-core-skin-e-background gdlr-core-skin-e-content" placeholder="Name" type="email" name="email" size="30" required />

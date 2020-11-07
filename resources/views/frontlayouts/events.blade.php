@@ -77,7 +77,7 @@
                                 <div class="gdlr-core-title-item-title-wrap clearfix">
                                     <h3 class="gdlr-core-title-item-title gdlr-core-skin-title " id="h3_1dd7_31">We Link Job Opportunities</h3>
                                 </div>
-                                <span class="gdlr-core-title-item-caption gdlr-core-info-font gdlr-core-skin-caption" id="span_1dd7_8">
+                                <span class="gdlr-core-title-item-caption gdlr-core-info-font gdlr-core-skin-caption" style="text-align:justify;" id="span_1dd7_8">
                                 Our member agencies source job opportunities from all over the world. The major destination countries are in the<strong> Middle East</strong>, where the economies are sustainable and therefore creating jobs.
                                 </span>
                             </div>
