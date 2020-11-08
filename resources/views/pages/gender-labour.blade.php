@@ -4,9 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-
-    <title img src="{{asset('images/loho.jpg')}}" style="width:50px; height:50px;" alt="" />UAERA</title>
-
+    @include('frontlayouts.title')
     @include('frontlayouts.css')
 </head>
 <body class="home page-template-default page page-id-2039 gdlr-core-body woocommerce-no-js tribe-no-js kingster-body kingster-body-front kingster-full  kingster-with-sticky-navigation  kingster-blockquote-style-1 gdlr-core-link-to-lightbox">
@@ -16,7 +14,7 @@
             @include('frontlayouts.header')
             <div class="kingster-page-wrapper" id="kingster-page-wrapper">
                 <div class="gdlr-core-page-builder-body">
-                <div class="kingster-page-title-wrap  kingster-style-custom kingster-left-align" style="background-image: url(upload/shutterstock_59887279.jpg) ;">
+                <div class="kingster-page-title-wrap  kingster-style-custom kingster-left-align" style="background-image: url(images/bmk2.jpg) ;">
                 <div class="kingster-header-transparent-substitute"></div>
                 <div class="kingster-page-title-overlay"></div>
                 <div class="kingster-page-title-bottom-gradient"></div>
@@ -135,8 +133,9 @@
                                                 <div class="gdlr-core-blog-modern-inner">
                                                     <div class="gdlr-core-blog-thumbnail gdlr-core-media-image"><img src="images/Einid1-1024x683.jpg" width="700" height="400"  alt="" /></div>
                                                     <div class="gdlr-core-blog-modern-content  gdlr-core-center-align">
-                                                        <h3 class="gdlr-core-blog-title gdlr-core-skin-title" style="font-size: 22px ;font-weight: 700 ;letter-spacing: 0px ;"><a href="#" >Professor Tom comments on voluntary recalls by snack brands</a></h3>
-                                                        <div class="gdlr-core-blog-info-wrapper gdlr-core-skin-divider"><span class="gdlr-core-blog-info gdlr-core-blog-info-font gdlr-core-skin-caption gdlr-core-blog-info-date"><a href="#">June 6, 2016</a></span><span class="gdlr-core-blog-info gdlr-core-blog-info-font gdlr-core-skin-caption gdlr-core-blog-info-author"><span class="gdlr-core-head" >By</span><a href="#" title="Posts by John Smith" rel="author">John Smith</a></span>
+                                                        <h3 class="gdlr-core-blog-title gdlr-core-skin-title" style="font-size: 22px ;font-weight: 700 ;letter-spacing: 0px ;"><a href="#" >Ministry of Gender Labour & Social Development, UAERA Sign MoU On Externalization Of Labour
+                                                        </a></h3>
+                                                        <div class="gdlr-core-blog-info-wrapper gdlr-core-skin-divider"><span class="gdlr-core-blog-info gdlr-core-blog-info-font gdlr-core-skin-caption gdlr-core-blog-info-date"><a href="#">October 23, 2019</a></span><span class="gdlr-core-blog-info gdlr-core-blog-info-font gdlr-core-skin-caption gdlr-core-blog-info-author"><span class="gdlr-core-head" >By</span><a href="#" title="Posts by Admin" rel="author">Admin</a></span>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -151,8 +150,10 @@
                                                 <div class="gdlr-core-blog-modern-inner">
                                                     <div class="gdlr-core-blog-thumbnail gdlr-core-media-image"><img src="images/Einid.jpg" width="700" height="400"  alt="" /></div>
                                                     <div class="gdlr-core-blog-modern-content  gdlr-core-center-align">
-                                                        <h3 class="gdlr-core-blog-title gdlr-core-skin-title" style="font-size: 22px ;font-weight: 700 ;letter-spacing: 0px ;"><a href="#" >Professor Tom comments on voluntary recalls by snack brands</a></h3>
-                                                        <div class="gdlr-core-blog-info-wrapper gdlr-core-skin-divider"><span class="gdlr-core-blog-info gdlr-core-blog-info-font gdlr-core-skin-caption gdlr-core-blog-info-date"><a href="#">June 6, 2016</a></span><span class="gdlr-core-blog-info gdlr-core-blog-info-font gdlr-core-skin-caption gdlr-core-blog-info-author"><span class="gdlr-core-head" >By</span><a href="#" title="Posts by John Smith" rel="author">John Smith</a></span>
+                                                        <h3 class="gdlr-core-blog-title gdlr-core-skin-title" style="font-size: 22px ;font-weight: 700 ;letter-spacing: 0px ;"><a href="#" >Ministry of Gender Labour & Social Development, UAERA Sign MoU On Externalization Of Labour
+                                                        </a>
+                                                        </h3>
+                                                        <div class="gdlr-core-blog-info-wrapper gdlr-core-skin-divider"><span class="gdlr-core-blog-info gdlr-core-blog-info-font gdlr-core-skin-caption gdlr-core-blog-info-date"><a href="#">October 23, 2019</a></span><span class="gdlr-core-blog-info gdlr-core-blog-info-font gdlr-core-skin-caption gdlr-core-blog-info-author"><span class="gdlr-core-head" >By</span><a href="#" title="Posts by Admin" rel="author">Admin</a></span>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -167,8 +168,9 @@
                                                 <div class="gdlr-core-blog-modern-inner">
                                                     <div class="gdlr-core-blog-thumbnail gdlr-core-media-image"><img src="images/nid.jpg" width="700" height="660"  alt="" /></div>
                                                     <div class="gdlr-core-blog-modern-content  gdlr-core-center-align">
-                                                        <h3 class="gdlr-core-blog-title gdlr-core-skin-title" style="font-size: 22px ;font-weight: 700 ;letter-spacing: 0px ;"><a href="#" >Professor Tom comments on voluntary recalls by snack brands</a></h3>
-                                                        <div class="gdlr-core-blog-info-wrapper gdlr-core-skin-divider"><span class="gdlr-core-blog-info gdlr-core-blog-info-font gdlr-core-skin-caption gdlr-core-blog-info-date"><a href="#">June 6, 2016</a></span><span class="gdlr-core-blog-info gdlr-core-blog-info-font gdlr-core-skin-caption gdlr-core-blog-info-author"><span class="gdlr-core-head" >By</span><a href="#" title="Posts by John Smith" rel="author">John Smith</a></span>
+                                                        <h3 class="gdlr-core-blog-title gdlr-core-skin-title" style="font-size: 22px ;font-weight: 700 ;letter-spacing: 0px ;"><a href="#" >Ministry of Gender Labour & Social Development, UAERA Sign MoU On Externalization Of Labour
+                                                         </a></h3>
+                                                        <div class="gdlr-core-blog-info-wrapper gdlr-core-skin-divider"><span class="gdlr-core-blog-info gdlr-core-blog-info-font gdlr-core-skin-caption gdlr-core-blog-info-date"><a href="#">October 23, 2019</a></span><span class="gdlr-core-blog-info gdlr-core-blog-info-font gdlr-core-skin-caption gdlr-core-blog-info-author"><span class="gdlr-core-head" >By</span><a href="#" title="Posts by Admin" rel="author">Admin</a></span>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -183,8 +185,10 @@
                                                 <div class="gdlr-core-blog-modern-inner">
                                                     <div class="gdlr-core-blog-thumbnail gdlr-core-media-image"><img src="images/nid1.jpg" width="700" height="400"  alt="" /></div>
                                                     <div class="gdlr-core-blog-modern-content  gdlr-core-center-align">
-                                                        <h3 class="gdlr-core-blog-title gdlr-core-skin-title" style="font-size: 22px ;font-weight: 700 ;letter-spacing: 0px ;"><a href="#" >Professor Tom comments on voluntary recalls by snack brands</a></h3>
-                                                        <div class="gdlr-core-blog-info-wrapper gdlr-core-skin-divider"><span class="gdlr-core-blog-info gdlr-core-blog-info-font gdlr-core-skin-caption gdlr-core-blog-info-date"><a href="#">June 6, 2016</a></span><span class="gdlr-core-blog-info gdlr-core-blog-info-font gdlr-core-skin-caption gdlr-core-blog-info-author"><span class="gdlr-core-head" >By</span><a href="#" title="Posts by John Smith" rel="author">John Smith</a></span>
+                                                        <h3 class="gdlr-core-blog-title gdlr-core-skin-title" style="font-size: 22px ;font-weight: 700 ;letter-spacing: 0px ;"><a href="#" >Ministry of Gender Labour & Social Development, UAERA Sign MoU On Externalization Of Labour
+                                                        </a>
+                                                        </h3>
+                                                        <div class="gdlr-core-blog-info-wrapper gdlr-core-skin-divider"><span class="gdlr-core-blog-info gdlr-core-blog-info-font gdlr-core-skin-caption gdlr-core-blog-info-date"><a href="#">October 23, 2019</a></span><span class="gdlr-core-blog-info gdlr-core-blog-info-font gdlr-core-skin-caption gdlr-core-blog-info-author"><span class="gdlr-core-head" >By</span><a href="#" title="Posts by Admin" rel="author">Admin</a></span>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -199,8 +203,10 @@
                                                 <div class="gdlr-core-blog-modern-inner">
                                                     <div class="gdlr-core-blog-thumbnail gdlr-core-media-image"><img src="images/nid2.jpg" width="700" height="400"  alt="" /></div>
                                                     <div class="gdlr-core-blog-modern-content  gdlr-core-center-align">
-                                                        <h3 class="gdlr-core-blog-title gdlr-core-skin-title" style="font-size: 22px ;font-weight: 700 ;letter-spacing: 0px ;"><a href="#" >Professor Tom comments on voluntary recalls by snack brands</a></h3>
-                                                        <div class="gdlr-core-blog-info-wrapper gdlr-core-skin-divider"><span class="gdlr-core-blog-info gdlr-core-blog-info-font gdlr-core-skin-caption gdlr-core-blog-info-date"><a href="#">June 6, 2016</a></span><span class="gdlr-core-blog-info gdlr-core-blog-info-font gdlr-core-skin-caption gdlr-core-blog-info-author"><span class="gdlr-core-head" >By</span><a href="#" title="Posts by John Smith" rel="author">John Smith</a></span>
+                                                        <h3 class="gdlr-core-blog-title gdlr-core-skin-title" style="font-size: 22px ;font-weight: 700 ;letter-spacing: 0px ;"><a href="#" >Ministry of Gender Labour & Social Development, UAERA Sign MoU On Externalization Of Labour
+                                                         </a>
+                                                         </h3>
+                                                        <div class="gdlr-core-blog-info-wrapper gdlr-core-skin-divider"><span class="gdlr-core-blog-info gdlr-core-blog-info-font gdlr-core-skin-caption gdlr-core-blog-info-date"><a href="#">October 23, 2019</a></span><span class="gdlr-core-blog-info gdlr-core-blog-info-font gdlr-core-skin-caption gdlr-core-blog-info-author"><span class="gdlr-core-head" >By</span><a href="#" title="Posts by Admin" rel="author">Admin</a></span>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -222,7 +228,7 @@
 
                                                             <div class="newsletter newsletter-subscription">
                                                                 <form class="gdlr-core-newsletter-form clearfix" method="post" action="/post-application-comment">
-                                                                    <!-- @crsf-->
+                                                                     @csrf
                                                                     <div class="gdlr-core-newsletter-email">
                                                                         <input class="newsletter-email gdlr-core-skin-e-background gdlr-core-skin-e-content" placeholder="Your comment" type="email" name="comment" rows="4" required >
                                                                     </div>

@@ -3,7 +3,7 @@
     <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <title img src="{{asset('images/loho.jpg')}}" style="width:50px; height:50px;" alt="" />UAERA</title>
+        @include('frontlayouts.title')
         @include('frontlayouts.css')
     </head>
     <body class="home page-template-default page page-id-2039 gdlr-core-body woocommerce-no-js tribe-no-js kingster-body kingster-body-front kingster-full  kingster-with-sticky-navigation  kingster-blockquote-style-1 gdlr-core-link-to-lightbox">
@@ -41,7 +41,7 @@
                                                             <div class="gdlr-core-blog-content">
                                                                 Last March, the government suspended the externalization of labour to countries such as the United Arab Emirates, Saudi Arabia, Qatar, Jordan, Somalia, Kuwait, Bahrain, Afghanistan, and Iraq to curb the spread of COVID-19. Ugandans looking to work abroad will have to wait for a while as labour exporting companies on Friday last week announced that […]
                                                                 <div class="clear"></div>
-                                                                <a class="gdlr-core-excerpt-read-more gdlr-core-button gdlr-core-rectangle" href="#">Read More</a>
+                                                                <a class="gdlr-core-excerpt-read-more gdlr-core-button gdlr-core-rectangle" href="/testimony">Read More</a>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -60,7 +60,7 @@
                                                             <div class="gdlr-core-blog-content">
                                                                 In recent years the external labour employment especially in the middle east has gained prominence in Uganda and so has been the exposure of the challenges involved, especially for domestic workers. Subsequently, many have called for banning of labour migration to the Middle East, especially domestic workers to cub down the challenges employed in those […]
                                                                 <div class="clear"></div>
-                                                                <a class="gdlr-core-excerpt-read-more gdlr-core-button gdlr-core-rectangle" href="#">Read More</a>
+                                                                <a class="gdlr-core-excerpt-read-more gdlr-core-button gdlr-core-rectangle" href="/concern-on-recruitment">Read More</a>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -102,7 +102,7 @@
                                                             <div class="gdlr-core-blog-content">
                                                                 The Civil Aviation Authority has released guidelines ahead of opening the Entebbe International Airport on 1st October 2020. Kindly click here to view the Standard Operating Procedures that will be followed; https://docdro.id/Mnz0cVy We will ensure that all our members adhere to the regulations.
                                                                 <div class="clear"></div>
-                                                                <a class="gdlr-core-excerpt-read-more gdlr-core-button gdlr-core-rectangle" href="#">Read More</a>
+                                                                <a class="gdlr-core-excerpt-read-more gdlr-core-button gdlr-core-rectangle" href="/sops">Read More</a>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -121,7 +121,7 @@
                                                             <div class="gdlr-core-blog-content">
                                                                 International commercial passenger flights return to Uganda’s Entebbe International Airport on October 1, 2020, ending at least five months of lockdown occasioned by the Covid-19 pandemic. The Uganda Civil Aviation Authority (UCAA) in a September 8 letter to airlines’ executives said that 13 flights, to and from the airport have been cleared for the first […]
                                                                 <div class="clear"></div>
-                                                                <a class="gdlr-core-excerpt-read-more gdlr-core-button gdlr-core-rectangle" href="#">Read More</a>
+                                                                <a class="gdlr-core-excerpt-read-more gdlr-core-button gdlr-core-rectangle" href="/transport-update">Read More</a>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -140,7 +140,7 @@
                                                             <div class="gdlr-core-blog-content">
                                                                 We are inviting applications for our Finance Audit services consultancy from suitably qualified individuals/firms to work as part our pool of professional and self-driven team. Please click the link here to read more about the offer. https://docdro.id/EbLP6RE
                                                                 <div class="clear"></div>
-                                                                <a class="gdlr-core-excerpt-read-more gdlr-core-button gdlr-core-rectangle" href="#">Read More</a>
+                                                                <a class="gdlr-core-excerpt-read-more gdlr-core-button gdlr-core-rectangle" href="/consultancy-finance-auditor">Read More</a>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -166,11 +166,11 @@
                                             <h3 class="kingster-widget-title">Recent Posts</h3>
                                             <span class="clear"></span>
                                             <ul>
-                                                <li> <a href="#">Our labour externalization sector can benchmark on the Philippine’s success story.</a></li>
-                                                <li> <a href="#">To kill or to save external labour recruitment and placement, especially in the middle east?</a></li>
-                                                <li> <a href="#">Press statement in response to a press release by the Ministry of Gender, Labour and Social Development on the resumption of externalization of Labour.</a></li>
-                                                <li> <a href="#">Here are the Standard Operating Procedures (SOPs) for departing and arriving passengers at Entebbe International Airport. #Covid19</a></li>
-                                                <li> <a href="#">Entebbe International Airport Set to Open on October 1, 2020</a></li>
+                                                <li> <a href="/testimony">Our labour externalization sector can benchmark on the Philippine’s success story.</a></li>
+                                                <li> <a href="/concern-on-recruitment">To kill or to save external labour recruitment and placement, especially in the middle east?</a></li>
+                                                <li> <a href="/press-release">Press statement in response to a press release by the Ministry of Gender, Labour and Social Development on the resumption of externalization of Labour.</a></li>
+                                                <li> <a href="/sops">Here are the Standard Operating Procedures (SOPs) for departing and arriving passengers at Entebbe International Airport. #Covid19</a></li>
+                                                <li> <a href="/transport-update">Entebbe International Airport Set to Open on October 1, 2020</a></li>
                                             </ul>
                                         </div>
                                     </div>
@@ -204,8 +204,8 @@
                                             <div class="gdlr-core-recent-portfolio-widget-wrap clearfix">
                                                 <div class="menu-our-campus-container">
                                                     <ul id="menu-our-campus" class="gdlr-core-custom-menu-widget gdlr-core-menu-style-plain">
-                                                        <li class="menu-item"><a href="#">Blog</a></li>
-                                                        <li class="menu-item"><a href="#">Blog</a></li>
+                                                        <li class="menu-item"><a href="/blog">Blog</a></li>
+                                                        <li class="menu-item"><a href="/blog">Blog</a></li>
                                                         <li class="menu-item"><a href="#">News</a></li>
                                                         <li class="menu-item"><a href="#">NEWS</a></li>
                                                         <li class="menu-item"><a href="#">Technology</a></li>

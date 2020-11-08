@@ -60,9 +60,6 @@
                                                                     </div>
                                                                     <h3 class="gdlr-core-blog-title gdlr-core-skin-title" style="font-size: 14px ;font-weight: 500 ;letter-spacing: 0px ;"><a href="#" >Our labour externalization sector can benchmark on the Philippine’s success story.&#8217;..</a></h3></div>
                                                             </div>
-                                                            <div class="gdlr-core-pbf-element">
-                                                                <div class="gdlr-core-button-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-left-align"><a class="gdlr-core-button  gdlr-core-button-transparent gdlr-core-button-no-border" href="#" style="font-size: 14px ;letter-spacing: 1px ;color: #475c87 ;padding: 0px 0px 0px 0px;text-transform: none ;border-radius: 0px;-moz-border-radius: 0px;-webkit-border-radius: 0px;"><span class="gdlr-core-content" >View All Events</span><i class="gdlr-core-pos-right fa fa-long-arrow-right" style="color: #475c87 ;"  ></i></a></div>
-                                                            </div>
                                                         </div>
                                                     </div>
                                                 </div>

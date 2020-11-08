@@ -4,9 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-
-    <title img src="{{asset('images/loho.jpg')}}" style="width:50px; height:50px;" alt="" />UAERA</title>
-
+    @include('frontlayouts.title')
     @include('frontlayouts.css')
 </head>
 <body class="home page-template-default page page-id-2039 gdlr-core-body woocommerce-no-js tribe-no-js kingster-body kingster-body-front kingster-full  kingster-with-sticky-navigation  kingster-blockquote-style-1 gdlr-core-link-to-lightbox">
@@ -16,7 +14,7 @@
             @include('frontlayouts.header')
             <div class="kingster-page-wrapper" id="kingster-page-wrapper">
                 <div class="gdlr-core-page-builder-body">
-                <div class="kingster-page-title-wrap  kingster-style-custom kingster-left-align" style="background-image: url(upload/shutterstock_59887279.jpg) ;">
+                <div class="kingster-page-title-wrap  kingster-style-custom kingster-left-align" style="background-image: url(images/bmk2.jpg) ;">
                 <div class="kingster-header-transparent-substitute"></div>
                 <div class="kingster-page-title-overlay"></div>
                 <div class="kingster-page-title-bottom-gradient"></div>
@@ -168,11 +166,11 @@
                                             <h3 class="kingster-widget-title">Recent Posts</h3>
                                             <span class="clear"></span>
                                             <ul>
-                                                <li> <a href="#">Our labour externalization sector can benchmark on the Philippine’s success story.</a></li>
-                                                <li> <a href="#">To kill or to save external labour recruitment and placement, especially in the middle east?</a></li>
-                                                <li> <a href="#">Press statement in response to a press release by the Ministry of Gender, Labour and Social Development on the resumption of externalization of Labour.</a></li>
-                                                <li> <a href="#">Here are the Standard Operating Procedures (SOPs) for departing and arriving passengers at Entebbe International Airport. #Covid19</a></li>
-                                                <li> <a href="#">Entebbe International Airport Set to Open on October 1, 2020</a></li>
+                                                <li> <a href="/testimony">Our labour externalization sector can benchmark on the Philippine’s success story.</a></li>
+                                                <li> <a href="/concern-on-recruitment">To kill or to save external labour recruitment and placement, especially in the middle east?</a></li>
+                                                <li> <a href="/press-release">Press statement in response to a press release by the Ministry of Gender, Labour and Social Development on the resumption of externalization of Labour.</a></li>
+                                                <li> <a href="/sops">Here are the Standard Operating Procedures (SOPs) for departing and arriving passengers at Entebbe International Airport. #Covid19</a></li>
+                                                <li> <a href="/transport-update">Entebbe International Airport Set to Open on October 1, 2020</a></li>
                                             </ul>
                                         </div>
                                 </div>
@@ -193,7 +191,7 @@
 
                                                             <div class="newsletter newsletter-subscription">
                                                                 <form class="gdlr-core-newsletter-form clearfix" method="post" action="/post-application-comment">
-                                                                    <!-- @crsf-->
+                                                                     @csrf
                                                                     <div class="gdlr-core-newsletter-email">
                                                                         <input class="newsletter-email gdlr-core-skin-e-background gdlr-core-skin-e-content wpcf7-form-control-wrap" placeholder="Your comment" type="email" name="comment" rows="4" required >
                                                                     </div>

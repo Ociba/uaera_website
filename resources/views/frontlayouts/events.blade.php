@@ -82,16 +82,6 @@
                                 </span>
                             </div>
                         </div>
-                        {{--
-                        <div class="gdlr-core-pbf-element">
-                            <div class="gdlr-core-button-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-left-align">
-                                <a class="gdlr-core-button  gdlr-core-button-solid gdlr-core-button-no-border" href="#" id="a_1dd7_6">
-                                    <i class="gdlr-core-pos-left fa fa-heart"  ></i>
-                                    <span class="gdlr-core-content" >Become a donor</span>
-                                </a>
-                            </div>
-                        </div>
-                        --}}
                     </div>
                 </div>
             </div>
@@ -116,7 +106,7 @@
                                         </span>
                                         <div class="gdlr-core-event-item-content-wrap">
                                             <h3 class="gdlr-core-event-item-title">
-                                                <a href="#" >Our labour externalization sector can benchmark on the Philippines success story</a>
+                                                <a href="/testimony" >Our labour externalization sector can benchmark on the Philippines success story</a>
                                             </h3>
                                             <div class="gdlr-core-event-item-info-wrap">
                                                 <span class="gdlr-core-event-item-info gdlr-core-type-time">
@@ -141,7 +131,7 @@
                                         </span>
                                         <div class="gdlr-core-event-item-content-wrap">
                                             <h3 class="gdlr-core-event-item-title">
-                                                <a href="#" >To kill or save external labour recruitment and placement, especially in the Middle East</a>
+                                                <a href="/concern-on-recruitment" >To kill or save external labour recruitment and placement, especially in the Middle East</a>
                                             </h3>
                                             <div class="gdlr-core-event-item-info-wrap">
                                                 <span class="gdlr-core-event-item-info gdlr-core-type-time">
@@ -166,7 +156,7 @@
                                         </span>
                                         <div class="gdlr-core-event-item-content-wrap">
                                             <h3 class="gdlr-core-event-item-title">
-                                                <a href="#" >Entebbe Airport set to Open October 1, 2020</a>
+                                                <a href="/transport-update" >Entebbe Airport set to Open October 1, 2020</a>
                                             </h3>
                                             <div class="gdlr-core-event-item-info-wrap">
                                                 <span class="gdlr-core-event-item-info gdlr-core-type-time">
@@ -188,7 +178,7 @@
                             </div>
                         </div>
                         <div class="gdlr-core-pbf-element">
-                            <div class="gdlr-core-button-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-left-align"><a class="gdlr-core-button  gdlr-core-button-transparent gdlr-core-button-no-border" href="#" id="a_1dd7_7"><span class="gdlr-core-content" >View more latests News</span><i class="gdlr-core-pos-right fa fa-long-arrow-right" id="i_1dd7_2"  ></i></a></div>
+                            <div class="gdlr-core-button-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-left-align"><a class="gdlr-core-button  gdlr-core-button-transparent gdlr-core-button-no-border" href="/blog" id="a_1dd7_7"><span class="gdlr-core-content" >View more latests News</span><i class="gdlr-core-pos-right fa fa-long-arrow-right" id="i_1dd7_2"  ></i></a></div>
                         </div>
                     </div>
                 </div>
@@ -213,16 +203,6 @@
                             <div class="gdlr-core-newsletter-item gdlr-core-item-pdlr gdlr-core-item-pdb  gdlr-core-style-rectangle-full">
 
                                 <div class="newsletter newsletter-subscription">
-                                    {{--
-                                    <form class="gdlr-core-newsletter-form clearfix" method="post" action="#">
-                                        <div class="gdlr-core-newsletter-email">
-                                            <input class="newsletter-email gdlr-core-skin-e-background gdlr-core-skin-e-content" placeholder="Your Email Address" type="email" name="ne" size="30" required />
-                                        </div>
-                                        <div class="gdlr-core-newsletter-submit">
-                                            <input class="newsletter-submit" type="submit" value="Subscribe" />
-                                        </div>
-                                    </form>
-                                    --}}
                                 </div>
                             </div>
                         </div>
